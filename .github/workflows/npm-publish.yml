@@ -24,3 +24,4 @@ jobs:
           context: .
           push: true
           tags: 1ds23cb029/nodejs-app:latest
+
